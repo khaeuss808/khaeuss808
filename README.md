@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her/hers
 
-I am a first year Master's student in Interdisciplinary Data Science at Duke University
+I am a Master's student in Interdisciplinary Data Science at Duke University
 
 ---
 
